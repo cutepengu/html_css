@@ -1,0 +1,40 @@
+html{
+    background-color:cadetblue
+}
+
+body{
+    background-color:lightblue
+}
+
+h1{
+    color:darkslateblue;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+img{
+    width:80%;
+    height:80%
+}
+
+nav{
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display:inline;
+    margin-right: 20px;
+}
+
+nav a{
+    color:wheat;
+    text-decoration: none;
+}
